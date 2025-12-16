@@ -1,0 +1,19 @@
+version: ""
+feeds:
+    - url: https://www.cambridge.org/core/rss/product/id/0791B9E2ACA02CF9865BE73FAD2CE3EA
+      name: bacp
+    - url: https://www.cambridge.org/core/rss/product/id/82CBABC080EF63BBEF4374010C9D99C1
+      name: tcbt
+database: nom.db
+ordering: asc
+filtering:
+    defaultIncludeFeedName: false
+theme:
+    glamour: dark
+    titleColor: "62"
+    titleColorFg: "231"
+    filterColor: "62"
+    selectedItemColor: "170"
+    readIcon: ✓
+http:
+    mintls: TLS 1.2
