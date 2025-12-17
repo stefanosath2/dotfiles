@@ -6,9 +6,9 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 
-alias tools='cd ~/Dropbox/research-tools/'
-alias notes='cd ~/Dropbox/research-notes/'
 alias dotfiles='cd ~/Dropbox/dotfiles/'
+alias notes='cd ~/Dropbox/research-notes/'
+alias tools='cd ~/Dropbox/research-tools/'
 
 # Package management
 alias update='sudo apt update && sudo apt upgrade -y'
@@ -23,6 +23,8 @@ alias gitd='git diff'
 alias gitds='git diff --staged'
 alias gitr='git restore'
 alias gitrs='git restore --staged'
+alias gitrao='git remote add origin'
+alias gitpom='git push origin main'
 
 alias ls='ls -lh'
 alias rm='rm -i'
