@@ -6,9 +6,11 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
 
+alias Downloads='cd ~/Downloads/'
 alias dotfiles='cd ~/Dropbox/dotfiles/'
 alias notes='cd ~/Dropbox/research-notes/'
 alias tools='cd ~/Dropbox/research-tools/'
+alias papers='cd ~/Dropbox/research-papers'
 
 # Package management
 alias update='sudo apt update && sudo apt upgrade -y'
