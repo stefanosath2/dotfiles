@@ -11,6 +11,7 @@ alias dotfiles='cd ~/Dropbox/dotfiles/'
 alias notes='cd ~/Dropbox/research-notes/'
 alias tools='cd ~/Dropbox/research-tools/'
 alias papers='cd ~/Dropbox/research-papers'
+alias therapie='cd ~/Dropbox/therapie-tools'
 
 # Package management
 alias update='sudo apt update && sudo apt upgrade -y'
@@ -28,7 +29,7 @@ alias gitrs='git restore --staged'
 alias gitrao='git remote add origin'
 alias gitpom='git push origin main'
 
-alias ls='ls -lh'
+alias ls='ls -lhFX'
 alias rm='rm -i'
 
 alias cat='batcat'
