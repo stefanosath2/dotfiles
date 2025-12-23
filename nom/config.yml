@@ -4,6 +4,8 @@ feeds:
       name: bacp
     - url: https://www.cambridge.org/core/rss/product/id/82CBABC080EF63BBEF4374010C9D99C1
       name: tcbt
+    - url: http://feeds.libsyn.com/536037/rss
+      name: babcprm 
 database: nom.db
 ordering: asc
 filtering:
