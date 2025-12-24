@@ -6,6 +6,8 @@ feeds:
       name: tcbt
     - url: http://feeds.libsyn.com/536037/rss
       name: babcprm 
+    - url: http://feeds.libsyn.com/529557/rss
+      name: babcppm
 database: nom.db
 ordering: asc
 filtering:
