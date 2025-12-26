@@ -13,6 +13,9 @@ alias tools='cd ~/Dropbox/research-tools/'
 alias papers='cd ~/Dropbox/research-papers'
 alias therapie='cd ~/Dropbox/therapie-tools'
 
+# OPen file manager at same directory
+alias ofm='open .' 
+
 # Package management
 alias update='sudo apt update && sudo apt upgrade -y'
 alias remove='sudo apt remove'
